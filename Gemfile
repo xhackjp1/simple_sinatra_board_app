@@ -9,3 +9,4 @@ gem "sinatra"
 gem 'sinatra-contrib'
 gem 'pg'
 gem 'dotenv'
+gem 'aws-sdk-s3'
